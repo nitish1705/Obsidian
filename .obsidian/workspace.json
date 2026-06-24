@@ -135,12 +135,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test folder/Test 4.md",
+                "file": "Test folder/Test 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test 4"
+              "title": "Test 5"
             }
           }
         ],
@@ -309,8 +309,9 @@
   },
   "active": "be9dabd97be363c8",
   "lastOpenFiles": [
-    "Test folder/Test 3.md",
     "Test folder/Test 4.md",
+    "Test folder/Test 5.md",
+    "Test folder/Test 3.md",
     "Test folder/Test for mac os.md",
     "Test folder/This is to test everything alright?.md",
     "DESIGN PATERN/Structural Design pattern/Flyweight pattern.md",
@@ -339,7 +340,6 @@
     "DFS",
     "CODNG/DP/Coin Change I (Minimum no. of ).md",
     "CODNG/DP/Coin Change II (Find the no. of ways to make a the target amount).md",
-    "CORE/Computer Networking.md",
     "CORE",
     "CODNG/Greedy",
     "Untitled.canvas",
